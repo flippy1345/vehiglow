@@ -3,10 +3,10 @@
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "android": "react-native run-android",
+    "android": "react-native run-android --variant=debug --deviceId emulator-5554",
     "ios": "react-native run-ios",
     "lint": "eslint .",
-    "start": "react-native start",
+    "start": "react-native start --host 127.0.0.1",
     "test": "jest"
   },
   "dependencies": {
