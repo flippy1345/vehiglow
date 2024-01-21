@@ -27,7 +27,6 @@ First, you will need to start **Metro**, the JavaScript _bundler_ that ships _wi
 To start Metro, run the following command from the _root_ of your React Native project:
 
 ```bash
-# using npm
 npm start
 ```
 
@@ -38,14 +37,12 @@ Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _roo
 ### Debug
 
 ```bash
-# using npm
 npm run android
 ```
 
 ### Build
 
 ```bash
-# using npm
 npm build
 ```
 
@@ -54,7 +51,7 @@ npm build
 Now that you have successfully run the app, let's modify it.
 
 1. Open `App.tsx` in your text editor of choice and edit some lines.
-2. For **Android**: Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) or <kbd>Cmd ⌘</kbd> + <kbd>M</kbd> (on macOS)) to see your changes!
+2. Press the <kbd>R</kbd> key twice or select **"Reload"** from the **Developer Menu** (<kbd>Ctrl</kbd> + <kbd>M</kbd> (on Window and Linux) to see your changes!
 
 ## Resources used to develop this app
 
