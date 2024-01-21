@@ -12,7 +12,9 @@
   },
   "dependencies": {
     "react": "18.2.0",
-    "react-native": "0.73.2"
+    "react-native": "0.73.2",
+    "react-native-carplay": "2.4.0-beta.2",
+    "nativewind": "2.0.11"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",

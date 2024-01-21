@@ -6,6 +6,7 @@ About this Android App
 - Mobile View
 - Android Auto View
 - React Native
+- Tailwind (NativeWind)
 
 ## Getting Started
 
@@ -59,7 +60,7 @@ Now that you have successfully run the app, let's modify it.
 - [ReactNativeArduinoBLE](https://github.com/palmmaximilian/ReactNativeArduinoBLE)
 - [React Native Android Auto](https://birkir.dev/react-native-carplay/AndroidAuto#usage)
 - [Android Auto](https://medium.com/@loicteyssier/bring-your-android-app-into-your-car-part-1-what-you-should-know-9bc961b94df1)
-
+- [NativeWind](https://www.nativewind.dev/)
 
 ## Learn More
 
