@@ -4,8 +4,7 @@
   "private": true,
   "scripts": {
     "setup": "./setup-android-sdk.sh",
-    "android": "react-native run-android --mode=debug --deviceId emulator-5554",
-    "ios": "react-native run-ios",
+    "debug": "react-native run-android --mode=debug --deviceId emulator-5554",
     "lint": "eslint .",
     "start": "react-native start --host 127.0.0.1",
     "test": "jest",

@@ -37,13 +37,13 @@ Let Metro Bundler run in its _own_ terminal. Open a _new_ terminal from the _roo
 ### Debug
 
 ```bash
-npm run android
+npm run debug
 ```
 
 ### Build
 
 ```bash
-npm build
+npm run build
 ```
 
 ## Step 3: Modifying your App
